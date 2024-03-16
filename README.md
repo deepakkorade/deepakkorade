@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm deepak korade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
-  <img height="200" src="C:\Users\Deepak\OneDrive\Pictures\IMG_20211110_205355.jpg"  />
+  <img height="200" src="https://komarev.com/ghpvc/?username=deepakkorade&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkorade"  />
 </div>
 
 ###
