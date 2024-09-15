@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkorade&show_icons=true&locale=en&layout=compact" alt="deepakkorade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkorade&" alt="deepakkorade" /></p>
+
 
 <!---
 deepakkorade/deepakkorade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
